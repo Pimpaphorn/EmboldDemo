@@ -11,9 +11,12 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        var number: Int = 0
+        number = 3
+        
+        let text: String!
+        text = nil
     }
-
-
 }
 
